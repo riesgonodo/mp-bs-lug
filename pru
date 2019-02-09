@@ -1,0 +1,7 @@
+{
+"features": [
+{"type": "Feature", "properties": {"Region": "Antofagasta", "Provincia": null, "Comuna": null, "Nombre": "Rio Loa" }, 
+"geometry": {"coordinates": [ -68.6251872, -22.2615151 ], "type": "Point"}},
+
+],
+"type": "FeatureCollection"}
